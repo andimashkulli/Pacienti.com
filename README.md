@@ -9,5 +9,6 @@ This system including the frontend, backend and UI is programmed by me.
 
 This repository has no code due to code privacy and legal issues. 
 
+![PacientiDesign-Andi Mashkulli](https://github.com/andimashkulli/Pacienti.com/assets/82601971/85c061dd-5f62-4362-a262-1dab0b8e2919)
 
 
